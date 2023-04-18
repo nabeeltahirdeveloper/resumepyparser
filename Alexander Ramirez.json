@@ -1,0 +1,48 @@
+{
+    "name": "Alexander Ramirez",
+    "email": "ajramirez1095@gmail.com",
+    "mobile_number": "583-7458",
+    "skills": [
+        "Sql",
+        "Email",
+        "Architecture",
+        "Javascript",
+        "C++",
+        "Python",
+        "Algorithms",
+        "Visual",
+        "Excel",
+        "Website",
+        "Api",
+        "Linux",
+        "Datasets",
+        "Programming",
+        "Scrum",
+        "Github",
+        "Aws",
+        "Html",
+        "Engineering",
+        "Css",
+        "Reports",
+        "Java",
+        "Mysql",
+        "Troubleshooting",
+        "Os",
+        "Design",
+        "Sharepoint",
+        "Database",
+        "Unix",
+        "Agile"
+    ],
+    "college_name": null,
+    "degree": [
+        "Bachelor of Science in Computer Science"
+    ],
+    "designation": [
+        "Web Developer"
+    ],
+    "experience": [],
+    "company_names": null,
+    "no_of_pages": 1,
+    "total_experience": 0.0
+}

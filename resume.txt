@@ -1,0 +1,35 @@
+Alexander Ramirez
+Phone: (562)-583-7458 Email: ajramirez1095@gmail.com
+GitHub: http://github.com/ganbakotori Website: www.alexanderramirez.info
+Incoming, team-oriented CS graduate with a passion for web development seeking to consolidate software engineering skills and knowledge of the industry with inclusive and innovative professionals. Proficient in developing databases, creating user interfaces, and troubleshooting simple/complex issues. Proven ability at analyzing critical feedback to provide a better product.
+EXPERIENCE
+Web Developer Lutiya June 2020 to Current
+• Researched, reviewed, and analyzed digital twin models and their infrastructures
+• Designed a user-friendly virtual twin simulator using Leaflet, Node.js, MongoDB, Express, and Webpack
+• Used large datasets from local governments and API services from TomTom, ArcGIS, and OpenWeatherMap
+• Developed features such as traffic, wildfires, hospitals, and city population map layers from filtered datasets
+Web Developer, Intern LinQuest June to August 2019
+• Developed SharePoint webparts using HTML, CSS, JavaScript, AJAX, and jQuery
+• Practiced Agile Software Development by attending Scrum Meetings and Sprint Reviews
+• Replaced XSLT webparts on team’s Kanban page with FusionCharts webparts using JavaScript and jQuery
+• Improved User Experience and Loading Time of Kanban page with replacement of webparts
+EDUCATION
+Long Beach, CA California State University, Long Beach August 2017 to May 2020
+Bachelor of Science in Computer Science
+Programming Coursework: Data Structures and Algorithms (Honors), Software Design and Architecture, Oriented Application Development (Java), Database Fundamentals, Object-Oriented Programming in C++, Unix/Linux OS
+SELECTED PROJECTS
+Bluefin Los Angeles (https://ganbakotori.github.io/bluefin-la/) January 2021 to Current
+• Created a website that displays location-based data such as median income, crime spots, schools, and diversity within Los Angeles
+• Pulled and filtered data using jQuery from the City of Los Angeles’s GeoHub website
+• Utilized Leaflet to pinpoint each datapoint with markers and polygons
+• Implemented 3rd party Leaflet libraries such as an address search bar and a Find My Location feature
+Handraze (www.handraze.org) August 2019 to May 2020
+• Managed a team and developed an online web application using the MERN tech stack that allowed instructors to create online courses for their students to enroll
+• Created weekly reports in MS Excel showcasing progress and upcoming tasks for each team member
+• Established a fully functional backend server to store accounts, profiles, courses, questions, and lectures
+using NodeJS, Express, and Mongoose
+• Used React/Redux as the frontend framework to display pages such as profile pages, course page, and
+lecture page with data pulled from the backend server.
+• Used Socket.IO to create online classrooms for students to communicate with instructors
+SKILLS
+Proficient in JavaScript, Java, C++, Python, Git/GitHub, Visual Studio Code, SQL, MySQL, HTML, CSS, SharePoint, Leaflet, ArcGIS, JDBC, Spring, jQuery, Bootstrap, React/Redux, TypeScript, NodeJS, Express, Unix/Linux, Unity, Eclipse, Socket.IO, AWS (EC2, Route 53, RDS, IAM)
